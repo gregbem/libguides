@@ -1,4 +1,4 @@
-# Reserach Guides
+# Research Guides
 A place to gather best practices
 
 # Guide Parts
